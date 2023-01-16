@@ -1,0 +1,6 @@
+{
+    "git.autorefresh": true,
+    "git.enabled": false,
+    "git.enableCommitSigning": true,
+    "git.fetchOnPull": false
+}
